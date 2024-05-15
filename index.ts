@@ -1,3 +1,4 @@
 let greet = "hello";
+let user = "AREESHA";
 
-console.log(greet);
+console.log(`${greet}! \n${user}`);
